@@ -82,4 +82,4 @@ grafico_button.on_click(button_grafico)
 
 
 # put the button and plot in a layout and add to the document
-curdoc().add_root(column(file_input,p, grafico_button, ex_button))
+curdoc().add_root(column(file_input,p, grafico_button))
